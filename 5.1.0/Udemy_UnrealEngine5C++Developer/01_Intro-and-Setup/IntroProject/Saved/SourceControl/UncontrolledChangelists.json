@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/RE/H3O9WIC7T0C62APUXXXJGP.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/B6/HAT9Z6126K8GBF5Q1R4U6K.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/01_Intro-and-Setup/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/O8/AQG1KN99DGAP6QK7AAXJ4D.uasset"
+			]
+		}
+	]
+}
