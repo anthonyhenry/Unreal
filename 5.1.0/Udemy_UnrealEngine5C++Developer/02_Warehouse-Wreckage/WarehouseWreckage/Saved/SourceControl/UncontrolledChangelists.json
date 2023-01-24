@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
 	]
