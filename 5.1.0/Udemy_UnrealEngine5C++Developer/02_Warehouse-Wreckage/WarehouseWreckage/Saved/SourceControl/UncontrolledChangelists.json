@@ -11,7 +11,10 @@
 				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Materials/M_AssetPlatform.uasset",
 				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/MyMaps/MyMinimalDefault.umap",
 				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
-				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/MyMaps/BP_Projectile.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/MyMaps/BP_Projectile2.uasset"
 			]
 		}
 	]
