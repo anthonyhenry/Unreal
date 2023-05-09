@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/MyMaps/MyMinimalDefault.umap",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/MyMaps/BP_Projectile.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/MyMaps/BP_Projectile2.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/Main.umap",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/BP_Barrel.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_WaterTank01.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Box01.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Box02.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Box03.uasset",
+				"C:/GitHub-Repositories/Unreal/5.1.0/Udemy_UnrealEngine5C++Developer/02_Warehouse-Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Pallet01.uasset"
+			]
+		}
+	]
+}
